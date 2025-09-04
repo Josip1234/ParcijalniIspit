@@ -1,0 +1,5 @@
+{
+    "require": {
+        "belmvc/belorm": "^0.0.2"
+    }
+}

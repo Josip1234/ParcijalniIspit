@@ -1,0 +1,41 @@
+{
+    "packages": [
+        {
+            "name": "belmvc/belorm",
+            "version": "v0.0.2",
+            "version_normalized": "0.0.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/BelMVC/BelORM.git",
+                "reference": "62dbd6fb8b31c12c1fe02906f346e32f1c0f4163"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/BelMVC/BelORM/zipball/62dbd6fb8b31c12c1fe02906f346e32f1c0f4163",
+                "reference": "62dbd6fb8b31c12c1fe02906f346e32f1c0f4163",
+                "shasum": ""
+            },
+            "time": "2018-02-01T15:59:55+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "AntonBeletsky",
+                    "email": "antonbeletsky@gmail.com"
+                }
+            ],
+            "description": "ORM",
+            "support": {
+                "issues": "https://github.com/BelMVC/BelORM/issues",
+                "source": "https://github.com/BelMVC/BelORM/tree/v0.0.2"
+            },
+            "install-path": "../belmvc/belorm"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

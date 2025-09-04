@@ -1,0 +1,14 @@
+{
+    "name": "belmvc/belorm",
+    "description": "ORM",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AntonBeletsky",
+            "email": "antonbeletsky@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
